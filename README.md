@@ -1,4 +1,4 @@
-# Task Manager – Mockup 
+# Task Manager Exercise
 
 פרויקט React מוכן לתרגול פונקציות JavaScript על מערך אובייקטים.
 
